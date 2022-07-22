@@ -1,11 +1,11 @@
 # Refresh
 --------------
 
-## Day 1
+## Project 1
 - T3 Stack
 - Layout/Tailwind
 - DEV setup
-
+- Tooling setup
 
 
 
