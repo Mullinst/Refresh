@@ -4,7 +4,7 @@
 ## Day 1
 - T3 Stack
 - Layout/Tailwind
-
+- DEV setup
 
 
 
