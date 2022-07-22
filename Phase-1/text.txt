@@ -1,0 +1,2 @@
+This is a quick exercise to remind myself about using the commandline.
+This directory will probably be removed in the future.:
