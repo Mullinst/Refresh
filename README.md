@@ -2,7 +2,7 @@
 --------------
 
 ## Goal
-The goal of this repo is to use it as a self contained learning hub, organizing resources, spawning side projects, and taking notes on learning.
+The goal of this repo is to be used as a self contained learning hub: organizing resources, spawning side projects, and taking notes on learning.
 
 ## Topics to explore
 - T3 Stack
